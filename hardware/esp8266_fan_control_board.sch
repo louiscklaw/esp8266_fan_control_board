@@ -1,10 +1,12 @@
 EESchema Schematic File Version 4
 LIBS:esp8266_fan_control_board-cache
+LIBS:CH340T-tryout-cache
+LIBS:AMS1117-cache
 EELAYER 29 0
 EELAYER END
 $Descr User 8500 5500
 encoding utf-8
-Sheet 1 9
+Sheet 1 10
 Title ""
 Date ""
 Rev ""
@@ -3605,7 +3607,7 @@ F6 "GPIO13" I R 4600 1950 50
 F7 "WS2812_OUT" O R 4600 1450 50 
 $EndSheet
 $Sheet
-S 750  4400 650  350 
+S 850  3650 650  600 
 U 5CF23C30
 F0 "power" 50
 F1 "power.sch" 50
@@ -3670,6 +3672,13 @@ F2 "WS2812_IN" I L 5050 1450 50
 $EndSheet
 Wire Wire Line
 	4600 1450 5050 1450
+$Sheet
+S 1800 1550 650  500 
+U 5D0F9966
+F0 "motor" 50
+F1 "motor.sch" 50
+F2 "PWM_IN" I R 2450 1700 50 
+$EndSheet
 Wire Bus Line
 	3250 950  3250 1600
 $EndSCHEMATC

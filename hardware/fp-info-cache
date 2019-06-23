@@ -1,4 +1,11 @@
-19597377287900068
+19619230036767284
+2EDGK
+2EDGR-2
+2EDGR-2
+2EDGR-2
+0
+2
+2
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -5914,6 +5921,13 @@ C Rect series Radial pin pitch 37.50mm  length 41.5mm width 40mm Capacitor
 0
 2
 2
+casing
+test1
+
+
+0
+0
+0
 Connector
 Banana_Jack_1Pin
 Single banana socket, footprint - 6mm drill
@@ -42048,6 +42062,90 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+danger_w_conn_mpt
+mpt_0,5%2f2-2,54
+2-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+2
+2
+danger_w_conn_mpt
+mpt_0,5%2f3-2,54
+3-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+3
+3
+danger_w_conn_mpt
+mpt_0,5%2f4-2,54
+4-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+4
+4
+danger_w_conn_mpt
+mpt_0,5%2f5-2,54
+5-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+5
+5
+danger_w_conn_mpt
+mpt_0,5%2f6-2,54
+6-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+6
+6
+danger_w_conn_mpt
+mpt_0,5%2f7-2,54
+7-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+7
+7
+danger_w_conn_mpt
+mpt_0,5%2f8-2,54
+8-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+8
+8
+danger_w_conn_mpt
+mpt_0,5%2f9-2,54
+9-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+9
+9
+danger_w_conn_mpt
+mpt_0,5%2f10-2,54
+10-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+10
+10
+danger_w_conn_mpt
+mpt_0,5%2f11-2,54
+11-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+11
+11
+danger_w_conn_mpt
+mpt_0,5%2f12-2,54
+12-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+12
+12
+DG_KF128
+DG_KF128-2
+DG_KF128-2
+DG_KF128-2
+0
+2
+2
 Diode_SMD
 Diode_Bridge_Diotec_ABS
 SMD diode bridge ABS (Diotec), see https://diotec.com/tl_files/diotec/files/pdf/datasheets/abs2.pdf
