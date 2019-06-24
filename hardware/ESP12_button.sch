@@ -1,7 +1,7 @@
 EESchema Schematic File Version 4
 LIBS:esp8266_fan_control_board-cache
-LIBS:CH340T-tryout-cache
-LIBS:AMS1117-cache
+LIBS:FAN0-cache
+LIBS:SHT30_tryout-cache
 EELAYER 29 0
 EELAYER END
 $Descr User 8500 5500

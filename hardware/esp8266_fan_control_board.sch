@@ -1,7 +1,7 @@
 EESchema Schematic File Version 4
 LIBS:esp8266_fan_control_board-cache
-LIBS:CH340T-tryout-cache
-LIBS:AMS1117-cache
+LIBS:FAN0-cache
+LIBS:SHT30_tryout-cache
 EELAYER 29 0
 EELAYER END
 $Descr User 8500 5500
@@ -3605,6 +3605,7 @@ F4 "GPIO14" I R 4600 1750 50
 F5 "GPIO12" I R 4600 1850 50 
 F6 "GPIO13" I R 4600 1950 50 
 F7 "WS2812_OUT" O R 4600 1450 50 
+F8 "FAN_PWM" I L 3750 1650 50 
 $EndSheet
 $Sheet
 S 850  3650 650  600 
@@ -3677,8 +3678,20 @@ S 1800 1550 650  500
 U 5D0F9966
 F0 "motor" 50
 F1 "motor.sch" 50
-F2 "PWM_IN" I R 2450 1700 50 
+F2 "FAN0_EN" I R 2450 1800 50 
 $EndSheet
+Entry Wire Line
+	3150 1800 3250 1900
+Wire Wire Line
+	2450 1800 3150 1800
+Text Label 3050 1800 2    50   ~ 0
+FAN0
+Entry Wire Line
+	3250 1750 3350 1650
+Wire Wire Line
+	3350 1650 3750 1650
+Text Label 3450 1650 0    50   ~ 0
+FAN0
 Wire Bus Line
-	3250 950  3250 1600
+	3250 950  3250 2100
 $EndSCHEMATC
