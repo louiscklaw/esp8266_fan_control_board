@@ -71,7 +71,7 @@ AR Path="/5D07D4E7/5D0C97E5" Ref="D?"  Part="1"
 AR Path="/5D0344F3/5D0C97E5" Ref="D3"  Part="1" 
 F 0 "D3" H 3000 2100 50  0000 L CNN
 F 1 "WS2812B" H 3000 2000 50  0000 L CNN
-F 2 "footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 2950 1400 50  0001 L TNN
+F 2 "footprint-lib:LED_WS2812B_5050_white" H 2950 1400 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3000 1325 50  0001 L TNN
 	1    2900 1700
 	1    0    0    -1  
@@ -85,7 +85,7 @@ AR Path="/5D07D4E7/5D0C97EB" Ref="D?"  Part="1"
 AR Path="/5D0344F3/5D0C97EB" Ref="D4"  Part="1" 
 F 0 "D4" H 3750 2178 50  0000 C CNN
 F 1 "WS2812B" H 3750 2087 50  0000 C CNN
-F 2 "footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 3800 1400 50  0001 L TNN
+F 2 "footprint-lib:LED_WS2812B_5050_white" H 3800 1400 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3850 1325 50  0001 L TNN
 	1    3750 1700
 	1    0    0    -1  
@@ -99,7 +99,7 @@ AR Path="/5D07D4E7/5D0C97F1" Ref="D?"  Part="1"
 AR Path="/5D0344F3/5D0C97F1" Ref="D5"  Part="1" 
 F 0 "D5" H 4600 2178 50  0000 C CNN
 F 1 "WS2812B" H 4600 2087 50  0000 C CNN
-F 2 "footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 4650 1400 50  0001 L TNN
+F 2 "footprint-lib:LED_WS2812B_5050_white" H 4650 1400 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4700 1325 50  0001 L TNN
 	1    4600 1700
 	1    0    0    -1  
@@ -113,7 +113,7 @@ AR Path="/5D07D4E7/5D0C97F7" Ref="D?"  Part="1"
 AR Path="/5D0344F3/5D0C97F7" Ref="D6"  Part="1" 
 F 0 "D6" H 5500 2178 50  0000 C CNN
 F 1 "WS2812B" H 5500 2087 50  0000 C CNN
-F 2 "footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 5550 1400 50  0001 L TNN
+F 2 "footprint-lib:LED_WS2812B_5050_white" H 5550 1400 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5600 1325 50  0001 L TNN
 	1    5500 1700
 	1    0    0    -1  
@@ -127,7 +127,7 @@ AR Path="/5D07D4E7/5D0C97FD" Ref="D?"  Part="1"
 AR Path="/5D0344F3/5D0C97FD" Ref="D7"  Part="1" 
 F 0 "D7" H 6400 2178 50  0000 C CNN
 F 1 "WS2812B" H 6400 2087 50  0000 C CNN
-F 2 "footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 6450 1400 50  0001 L TNN
+F 2 "footprint-lib:LED_WS2812B_5050_white" H 6450 1400 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 6500 1325 50  0001 L TNN
 	1    6400 1700
 	1    0    0    -1  
